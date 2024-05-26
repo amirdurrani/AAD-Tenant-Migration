@@ -5,7 +5,7 @@ Customer is migrating AAD Tenant hence migrating to a new AD Domain e.g. custome
 What is this Code accomplishing:
 This code is developed fro specific customer need to automate the SCIM PATCH API call to update the Username for the account objects that were modified using "ALTER USER" command within Snowflake account.
 
-NOTE: Please modify the code to fit your needs for automating SCIM APIs to snowflake SCIM Endpoint.
+NOTE: Please modify the code to fit your needs for automating SCIM APIs to snowflake SCIM Endpoint. That is the reason I have uploaded two files with slightly different code in each one.
 
 Step1: Import required libraries
 
